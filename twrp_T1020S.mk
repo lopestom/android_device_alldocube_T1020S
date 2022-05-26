@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
+LOCAL_PATH := device/alldocube/T1020S
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 30
 
@@ -37,7 +37,7 @@ PRODUCT_PACKAGES += \
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := T1020S
-PRODUCT_NAME := twrp_iPlay_40
+PRODUCT_NAME := twrp_T1020S
 PRODUCT_BRAND := Alldocube
 PRODUCT_MODEL := iPlay_40
 PRODUCT_MANUFACTURER := Alldocube
